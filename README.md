@@ -1,4 +1,4 @@
-👋 Hi, I’m Hyojae!
+👋 Hi, I’m Hyojae (Andrew)! 
 - 📖 Second year Computer Engineering student @ the University of Waterloo
 - 💻 I am interested and passionate about all aspects of software development.
 - 🌱 Currently studying AI/ML. 
