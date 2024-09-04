@@ -1,7 +1,6 @@
 👋 Hi, I’m Hyojae (Andrew)! 
 - 📖 Second year Computer Engineering student @ the University of Waterloo
 - 💻 I am interested and passionate about all aspects of software development.
-- 🌱 Currently studying AI with specialization in ML -> LLM.
 - 💼 Seeking **Winter/Spring** 2025 internships!
 - 📧 How to reach me: a29kim@uwaterloo.ca
 
